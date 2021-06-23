@@ -42,3 +42,5 @@ Esta App fue desarrollada para probar algunas características de audio, por lo 
 Correo de contacto: randommusicd@gmail.com
 Página web : https://randomcodeweb.netlify.app
 Youtube: https://www.youtube.com/c/RandomMusicD
+
+[![View Reproductor de música // Extracción audio on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://la.mathworks.com/matlabcentral/fileexchange/94265-reproductor-de-musica-extraccion-audio)
